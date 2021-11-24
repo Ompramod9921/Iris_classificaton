@@ -1,0 +1,2 @@
+streamlit==0.88.0
+joblib==1.0.1
